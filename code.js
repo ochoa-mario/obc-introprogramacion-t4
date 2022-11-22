@@ -41,3 +41,4 @@ switch (estacion){
   default:
     console.log(`La variable estación es invalida`);
 };
+
